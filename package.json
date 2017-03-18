@@ -1,0 +1,25 @@
+{
+  "name": "2d-map-testbed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "datamaps": "^0.5.8",
+    "http-server": "^0.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/http-server/bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wrobbins/2d-map-testbed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wrobbins/2d-map-testbed/issues"
+  },
+  "homepage": "https://github.com/wrobbins/2d-map-testbed#readme"
+}
